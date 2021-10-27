@@ -1,5 +1,5 @@
-PREDICTING NEXT DAY STOCK MARKET PRICES
-Author: David Rodrigues - davidrodriguessp@hotmail.com | https://www.linkedin.com/in/davidrodrigues/
+# PREDICTING NEXT DAY STOCK MARKET PRICES
+*Author: David Rodrigues - davidrodriguessp@hotmail.com | https://www.linkedin.com/in/davidrodrigues/*
 
 This projet aimed to create a model to predict stock prices based on historic data.
 We used data available in the file sphist.csv with S&P500 prices from1950 to 2015.
@@ -15,7 +15,6 @@ last 10 trades for each row. This incorporates information from multiple prior r
 makes predictions more accurate.
 
 This repository has two files:
-
 - predict.py with the full code
 - sphist.csv with the dataset 
 
